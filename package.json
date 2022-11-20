@@ -1,0 +1,22 @@
+{
+  "name": "shop",
+  "version": "1.0.0",
+  "description": "MERN shopping cart shop",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blocdenis/shop.git"
+  },
+  "author": "Denys Horkavyi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/blocdenis/shop/issues"
+  },
+  "homepage": "https://github.com/blocdenis/shop#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
